@@ -1,0 +1,21 @@
+13:57:22.449 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+13:57:23.954 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+13:57:40.577 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+13:57:40.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:57:51.955 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+17:27:19.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***  Starting TC_001_AccountRegistrationTest ***
+17:27:20.305 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My account link
+17:27:34.228 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on register link
+17:27:34.253 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+17:27:46.647 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+07:49:18.424 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:49:23.915 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:49:35.338 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:49:46.324 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:50:06.514 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:56:33.233 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+07:57:03.919 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:57:17.905 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:57:33.083 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:57:48.988 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
+07:58:03.351 [main] INFO  testCases.TC_003_LoginDataDrivenTest -  Starting TC_003_LoginDataDrivenTest 
